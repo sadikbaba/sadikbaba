@@ -2,7 +2,7 @@
 
 Backend Django developer, building toward AI development and Web3 security.
 
-I write about AI and crypto as a journalist on X — this GitHub is where I ship
+I write about AI and crypto as a journalist on X  this GitHub is where I ship
 the technical side of that: real code, not just commentary.
 
 ---
