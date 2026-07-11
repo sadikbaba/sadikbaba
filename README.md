@@ -21,7 +21,7 @@ Full breakdown and progress: [Django → AI/Web3 Roadmap](https://github.com/sad
 
 ## 📍 Long-term goal
 
-Combine Django backend skills with AI tooling and Web3 security —
+Combine Django backend skills with AI tooling and Web3 security 
 bug report analyzers, wallet dashboards, smart contract audit tools.
 
 ## 📫 Follow the build
