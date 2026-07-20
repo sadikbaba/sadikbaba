@@ -9,7 +9,7 @@ Web Security & Full-Stack Developer  moving into AI development
 
 ## Profile
 
-Full-stack developer with a focus on web security, building primarily with Python and Django. Comfortable taking a project from local development through to a production Linux deployment — including debugging SELinux and configuring Nginx/Gunicorn by hand rather than relying on a one-click host. Currently extending that base into AI development, working locally with Ollama and small open models.
+Full-stack developer with a focus on web security, building primarily with Python and Django. Comfortable taking a project from local development through to a production Linux deployment  including debugging SELinux and configuring Nginx/Gunicorn by hand rather than relying on a one-click host. Currently extending that base into AI development, working locally with Ollama and small open models.
 
 ## Technical Skills
 
@@ -36,7 +36,7 @@ Working through ERC-4337 smart account mechanics in JavaScript as part of buildi
 Core Python problem-solving and language fundamentals.
 
 **Django Portfolio Deployment**
-Took a Django app from local development to a live production stack: Nginx as reverse proxy, Gunicorn as the application server, on Fedora Linux — including resolving SELinux policy conflicts that blocked the deployment.
+Took a Django app from local development to a live production stack: Nginx as reverse proxy, Gunicorn as the application server, on Fedora Linux including resolving SELinux policy conflicts that blocked the deployment.
 
 ## Currently Building Toward
 
