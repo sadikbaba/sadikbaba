@@ -13,7 +13,7 @@ Working through a structured Django → AI/Web3 roadmap: fundamentals, CRUD,
 authentication, advanced Django, REST APIs, deployment, then real-world
 projects and AI/Web3-focused builds.
 
-Full breakdown and progress: [Django → AI/Web3 Roadmap](https://github.com/sadikbaba/DJANGO-TO-AI-WEB3-ROADMAP)
+
 
 ## Core stack
 
