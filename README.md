@@ -76,10 +76,7 @@ evaluation, and AI-powered developer tooling.
 
 ### Web3 Security
 
-Exploring smart-contract security, vulnerability analysis, audit tooling,
-blockchain data, and security automation.
-
----
+Exploring smart-contract securit
 
 ## Learning & Development
 
@@ -98,8 +95,7 @@ I continuously strengthen my foundations in:
 * AI engineering
 * Web3 security
 
-I focus on understanding why systems work, not just memorizing frameworks
-and syntax.
+I focus on understanding why systems work
 
 ---
 
