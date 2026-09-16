@@ -38,10 +38,6 @@ My development path is focused on:
 `LLM Applications` `RAG` `AI Agents` `AI Automation`
 `AI Developer Tools` `AI Security Tooling`
 
-## Web3
-
-`Solidity` `Foundry` `Smart Contracts` `Web3 Security`
-`Smart Contract Testing` `Blockchain Tooling`
 
 ---
 
