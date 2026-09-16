@@ -1,4 +1,4 @@
-# Abubakar Rabiu Baba (sadik_0x)
+# Abubakar Rabiu Baba
 
 Backend Django developer, building toward AI development and Web3 security.
 
